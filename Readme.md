@@ -62,7 +62,7 @@ The system classifies facial images into four categories and further converts th
 ### Option 1: Run on Google Colab (Recommended)
 
 1. Open [Google Colab](https://colab.research.google.com/)
-2. Upload `src/masterfile_raw.ipynb`
+2. Upload `src/Driver_Drowsiness_Detection_raw.ipynb`
 3. Enable GPU: `Runtime → Change runtime type → T4 GPU`
 4. Run all cells (`Ctrl+F9`)
 
@@ -170,27 +170,25 @@ MobileNetV2      Model Training
 Driver-Drowsiness-Detection/
 
 ├── src/
-│     preprocessing.py
-│     models.py
-│     training.py
-│     evaluation.py
-│     decision_fusion.py
-│     progression.py
-│     comparison.py
+│     Driver_Drowsiness_Detection_raw.ipynb
 │
 ├── outputs/
-│     preprocessing/
-│     training/
-│     evaluation/
-│     decision_fusion/
-│     progression/
-│     performance/
-│
+│     step4_preprocessing/
+│     Step 7_train/
+│     step9_decision_fusion/
+│     step11_performance_analysis/
+│     
 ├── models/
 │     best_custom_cnn.keras
 │     best_mobilenetv2.keras
 │
 ├── images/
+|      CNN_Drive fatigue progesion curve.png/
+|      Mobilenet_Drive fatigue progesion curve/
+|      Model_Test Accuracy coparision
+|
+├── docs/
+|     Driver_Drowsiness_Detection_Project_Report        
 │
 ├── requirements.txt
 │
