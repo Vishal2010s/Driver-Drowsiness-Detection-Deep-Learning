@@ -1,0 +1,295 @@
+Predicted Class,Fatigue Score,Fatigue Stage
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+no_yawn,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Closed,2,Severe Fatigue
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Open,0,Alert
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Open,0,Alert
+Closed,2,Severe Fatigue
+Open,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+no_yawn,0,Alert
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+no_yawn,0,Alert
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue
+yawn,1,Mild Fatigue

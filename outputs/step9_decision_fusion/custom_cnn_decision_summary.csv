@@ -1,0 +1,5 @@
+Predicted Class,Fatigue Score,Fatigue Stage,Count
+yawn,1,Mild Fatigue,90
+Closed,2,Severe Fatigue,87
+Open,0,Alert,60
+no_yawn,0,Alert,57
