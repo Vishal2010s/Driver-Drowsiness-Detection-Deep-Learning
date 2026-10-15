@@ -228,6 +228,12 @@ with prediction:
                         raise ValueError(f"{task}_{kind}: unexpected class order {spec['classes']} != {expected_classes}")
 
                     key = task + '_' + kind
+                    
+                    if key == "yawn_mobilenet":
+                        st.write("Model file:", spec["file"])
+                        st.write("Expected SHA-256:", spec["sha256"])
+                        st.write("Actual SHA-256:", fingerprints[key])
+
 
                     if fingerprints[key] != spec['sha256']:
 
