@@ -1,0 +1,5 @@
+interval,fatigue_score,frame_count,stage,simulation_type,from_stage
+4,0.5,10,Mild Fatigue,constructed from predicted stages,Alert
+7,0.3,10,Alert,constructed from predicted stages,Mild Fatigue
+10,0.6,10,Mild Fatigue,constructed from predicted stages,Alert
+15,2.0,10,Severe Fatigue,constructed from predicted stages,Mild Fatigue

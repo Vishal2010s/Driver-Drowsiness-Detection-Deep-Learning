@@ -1,0 +1,297 @@
+file,actual,predicted,p_Closed,p_Open,task,p_no_yawn,p_yawn,reference_stage,fatigue_stage,fatigue_label,interval
+no_yawn/1031.jpg.png,no_yawn,no_yawn,,,yawn,0.95463395,0.045366045,0,0,Alert,0
+no_yawn/1067.jpg.png,no_yawn,no_yawn,,,yawn,0.932919,0.067080945,0,0,Alert,0
+no_yawn/1073.jpg.png,no_yawn,no_yawn,,,yawn,0.97817695,0.021822987,0,0,Alert,0
+no_yawn/1121.jpg.png,no_yawn,no_yawn,,,yawn,0.8346263,0.16537367,0,0,Alert,0
+no_yawn/1268.jpg.png,no_yawn,no_yawn,,,yawn,0.680499,0.31950098,0,0,Alert,0
+no_yawn/1326.jpg.png,no_yawn,no_yawn,,,yawn,0.9487883,0.051211715,0,0,Alert,0
+no_yawn/1462.jpg.png,no_yawn,no_yawn,,,yawn,0.91957766,0.08042241,0,0,Alert,0
+no_yawn/1567.jpg.png,no_yawn,no_yawn,,,yawn,0.77220106,0.2277989,0,0,Alert,0
+no_yawn/1597.jpg.png,no_yawn,no_yawn,,,yawn,0.90720856,0.09279151,0,0,Alert,0
+no_yawn/1651.jpg.png,no_yawn,no_yawn,,,yawn,0.93874884,0.061251167,0,0,Alert,0
+no_yawn/1701.jpg.png,no_yawn,no_yawn,,,yawn,0.9492956,0.05070447,0,0,Alert,1
+no_yawn/1767.jpg.png,no_yawn,no_yawn,,,yawn,0.90321356,0.096786425,0,0,Alert,1
+no_yawn/1913.jpg.png,no_yawn,no_yawn,,,yawn,0.9883359,0.011664038,0,0,Alert,1
+no_yawn/1914.jpg.png,no_yawn,no_yawn,,,yawn,0.9876359,0.012364113,0,0,Alert,1
+no_yawn/1931.jpg.png,no_yawn,no_yawn,,,yawn,0.9917967,0.008203399,0,0,Alert,1
+no_yawn/1963.jpg.png,no_yawn,no_yawn,,,yawn,0.6540643,0.3459357,0,0,Alert,1
+no_yawn/1990.jpg.png,no_yawn,no_yawn,,,yawn,0.7193828,0.28061718,0,0,Alert,1
+no_yawn/2014.jpg.png,no_yawn,no_yawn,,,yawn,0.68444675,0.31555322,0,0,Alert,1
+no_yawn/2016.jpg.png,no_yawn,no_yawn,,,yawn,0.77355456,0.22644544,0,0,Alert,1
+no_yawn/2087.jpg.png,no_yawn,no_yawn,,,yawn,0.9811506,0.018849358,0,0,Alert,1
+no_yawn/2110.jpg.png,no_yawn,no_yawn,,,yawn,0.8294849,0.17051508,0,0,Alert,2
+no_yawn/212.jpg.png,no_yawn,no_yawn,,,yawn,0.9548011,0.04519899,0,0,Alert,2
+no_yawn/2136.jpg.png,no_yawn,no_yawn,,,yawn,0.89770776,0.10229222,0,0,Alert,2
+no_yawn/2152.jpg.png,no_yawn,no_yawn,,,yawn,0.84491205,0.15508796,0,0,Alert,2
+no_yawn/2197.jpg.png,no_yawn,no_yawn,,,yawn,0.95552015,0.044479802,0,0,Alert,2
+no_yawn/2201.jpg.png,no_yawn,no_yawn,,,yawn,0.9385857,0.061414305,0,0,Alert,2
+no_yawn/2202.jpg.png,no_yawn,no_yawn,,,yawn,0.9519866,0.04801336,0,0,Alert,2
+no_yawn/2222.jpg.png,no_yawn,no_yawn,,,yawn,0.8339684,0.16603158,0,0,Alert,2
+no_yawn/2241.jpg.png,no_yawn,no_yawn,,,yawn,0.99459875,0.005401272,0,0,Alert,2
+no_yawn/2252.jpg.png,no_yawn,no_yawn,,,yawn,0.992919,0.0070809494,0,0,Alert,2
+no_yawn/2286.jpg.png,no_yawn,no_yawn,,,yawn,0.9716152,0.0283848,0,0,Alert,3
+no_yawn/2290.jpg.png,no_yawn,no_yawn,,,yawn,0.97073233,0.029267684,0,0,Alert,3
+no_yawn/2299.jpg.png,no_yawn,no_yawn,,,yawn,0.90063703,0.09936297,0,0,Alert,3
+no_yawn/2351.jpg.png,no_yawn,no_yawn,,,yawn,0.91565615,0.0843439,0,0,Alert,3
+no_yawn/2428.jpg.png,no_yawn,no_yawn,,,yawn,0.9771327,0.022867339,0,0,Alert,3
+no_yawn/2461.jpg.png,no_yawn,no_yawn,,,yawn,0.8335665,0.1664335,0,0,Alert,3
+no_yawn/2467.jpg.png,no_yawn,no_yawn,,,yawn,0.91289204,0.08710792,0,0,Alert,3
+no_yawn/2471.jpg.png,no_yawn,no_yawn,,,yawn,0.7310505,0.26894945,0,0,Alert,3
+no_yawn/2474.jpg.png,no_yawn,no_yawn,,,yawn,0.6188904,0.38110957,0,0,Alert,3
+no_yawn/2516.jpg.png,no_yawn,no_yawn,,,yawn,0.77872,0.22127996,0,0,Alert,3
+no_yawn/2538.jpg.png,no_yawn,no_yawn,,,yawn,0.7475611,0.25243893,0,0,Alert,4
+no_yawn/2542.jpg.png,no_yawn,no_yawn,,,yawn,0.56688267,0.4331173,0,0,Alert,4
+no_yawn/2547.jpg.png,no_yawn,no_yawn,,,yawn,0.5346774,0.4653226,0,0,Alert,4
+no_yawn/2589.jpg.png,no_yawn,no_yawn,,,yawn,0.81624925,0.18375082,0,0,Alert,4
+no_yawn/2603.jpg.png,no_yawn,no_yawn,,,yawn,0.6815968,0.3184032,0,0,Alert,4
+no_yawn/1246.jpg.png,no_yawn,yawn,,,yawn,0.48468277,0.5153173,0,1,Mild Fatigue,4
+no_yawn/1376.jpg.png,no_yawn,yawn,,,yawn,0.2027588,0.7972412,0,1,Mild Fatigue,4
+no_yawn/1412.jpg.png,no_yawn,yawn,,,yawn,0.18473771,0.8152623,0,1,Mild Fatigue,4
+no_yawn/142.jpg.png,no_yawn,yawn,,,yawn,0.46857947,0.53142047,0,1,Mild Fatigue,4
+no_yawn/179.jpg.png,no_yawn,yawn,,,yawn,0.19520572,0.80479425,0,1,Mild Fatigue,4
+no_yawn/2001.jpg.png,no_yawn,yawn,,,yawn,0.45755866,0.54244137,0,1,Mild Fatigue,5
+no_yawn/616.jpg.png,no_yawn,yawn,,,yawn,0.46999136,0.53000855,0,1,Mild Fatigue,5
+no_yawn/755.jpg.png,no_yawn,yawn,,,yawn,0.49966526,0.50033474,0,1,Mild Fatigue,5
+no_yawn/833.jpg.png,no_yawn,yawn,,,yawn,0.33611178,0.66388816,0,1,Mild Fatigue,5
+yawn/104.jpg.png,yawn,yawn,,,yawn,0.02043196,0.979568,1,1,Mild Fatigue,5
+yawn/121.jpg.png,yawn,yawn,,,yawn,0.005924483,0.99407554,1,1,Mild Fatigue,5
+yawn/123.jpg.png,yawn,yawn,,,yawn,0.0010085275,0.99899143,1,1,Mild Fatigue,5
+yawn/126.jpg.png,yawn,yawn,,,yawn,0.00057199155,0.999428,1,1,Mild Fatigue,5
+yawn/128.jpg.png,yawn,yawn,,,yawn,0.00073326915,0.9992667,1,1,Mild Fatigue,5
+yawn/139.jpg.png,yawn,yawn,,,yawn,0.0009160279,0.999084,1,1,Mild Fatigue,5
+yawn/140.jpg.png,yawn,yawn,,,yawn,0.0008091462,0.99919087,1,1,Mild Fatigue,6
+yawn/163.jpg.png,yawn,yawn,,,yawn,0.00011278447,0.9998872,1,1,Mild Fatigue,6
+yawn/171.jpg.png,yawn,yawn,,,yawn,7.4987256e-05,0.999925,1,1,Mild Fatigue,6
+yawn/172.jpg.png,yawn,yawn,,,yawn,7.490028e-05,0.99992514,1,1,Mild Fatigue,6
+yawn/18.jpg.png,yawn,yawn,,,yawn,0.00012221876,0.9998778,1,1,Mild Fatigue,6
+yawn/184.jpg.png,yawn,yawn,,,yawn,0.034977183,0.96502274,1,1,Mild Fatigue,6
+yawn/185.jpg.png,yawn,yawn,,,yawn,0.15186493,0.84813505,1,1,Mild Fatigue,6
+yawn/189.jpg.png,yawn,yawn,,,yawn,0.27585787,0.72414213,1,1,Mild Fatigue,6
+yawn/192.jpg.png,yawn,yawn,,,yawn,0.00018264817,0.9998174,1,1,Mild Fatigue,6
+yawn/193.jpg.png,yawn,yawn,,,yawn,0.000280347,0.9997197,1,1,Mild Fatigue,6
+yawn/227.jpg.png,yawn,yawn,,,yawn,0.027878169,0.9721218,1,1,Mild Fatigue,7
+yawn/242.jpg.png,yawn,yawn,,,yawn,6.29967e-05,0.99993706,1,1,Mild Fatigue,7
+yawn/246.jpg.png,yawn,yawn,,,yawn,6.0977556e-05,0.99993896,1,1,Mild Fatigue,7
+no_yawn/2606.jpg.png,no_yawn,no_yawn,,,yawn,0.9423676,0.057632316,0,0,Alert,7
+no_yawn/2622.jpg.png,no_yawn,no_yawn,,,yawn,0.9734177,0.026582351,0,0,Alert,7
+no_yawn/293.jpg.png,no_yawn,no_yawn,,,yawn,0.9857086,0.014291348,0,0,Alert,7
+no_yawn/373.jpg.png,no_yawn,no_yawn,,,yawn,0.8938141,0.10618593,0,0,Alert,7
+no_yawn/431.jpg.png,no_yawn,no_yawn,,,yawn,0.89480954,0.105190426,0,0,Alert,7
+no_yawn/439.jpg.png,no_yawn,no_yawn,,,yawn,0.8871933,0.11280672,0,0,Alert,7
+no_yawn/522.jpg.png,no_yawn,no_yawn,,,yawn,0.9077697,0.09223029,0,0,Alert,7
+no_yawn/529.jpg.png,no_yawn,no_yawn,,,yawn,0.8354873,0.1645127,0,0,Alert,8
+no_yawn/548.jpg.png,no_yawn,no_yawn,,,yawn,0.9647355,0.03526447,0,0,Alert,8
+no_yawn/555.jpg.png,no_yawn,no_yawn,,,yawn,0.96393216,0.036067806,0,0,Alert,8
+no_yawn/602.jpg.png,no_yawn,no_yawn,,,yawn,0.8686761,0.13132393,0,0,Alert,8
+no_yawn/645.jpg.png,no_yawn,no_yawn,,,yawn,0.88438874,0.115611255,0,0,Alert,8
+no_yawn/657.jpg.png,no_yawn,no_yawn,,,yawn,0.83823246,0.16176756,0,0,Alert,8
+no_yawn/71.jpg.png,no_yawn,no_yawn,,,yawn,0.9719642,0.028035771,0,0,Alert,8
+no_yawn/781.jpg.png,no_yawn,no_yawn,,,yawn,0.9661121,0.033887975,0,0,Alert,8
+no_yawn/787.jpg.png,no_yawn,no_yawn,,,yawn,0.9160116,0.083988406,0,0,Alert,8
+no_yawn/900.jpg.png,no_yawn,no_yawn,,,yawn,0.9190888,0.08091124,0,0,Alert,8
+no_yawn/931.jpg.png,no_yawn,no_yawn,,,yawn,0.54336876,0.4566312,0,0,Alert,9
+no_yawn/962.jpg.png,no_yawn,no_yawn,,,yawn,0.9016879,0.09831216,0,0,Alert,9
+no_yawn/983.jpg.png,no_yawn,no_yawn,,,yawn,0.9450053,0.05499468,0,0,Alert,9
+yawn/201.jpg.png,yawn,no_yawn,,,yawn,0.5138873,0.48611274,1,0,Alert,9
+yawn/213.jpg.png,yawn,no_yawn,,,yawn,0.6699496,0.33005044,1,0,Alert,9
+yawn/276.jpg.png,yawn,no_yawn,,,yawn,0.8047981,0.19520186,1,0,Alert,9
+yawn/352.jpg.png,yawn,no_yawn,,,yawn,0.8420916,0.1579083,1,0,Alert,9
+yawn/448.jpg.png,yawn,no_yawn,,,yawn,0.81308,0.18692005,1,0,Alert,9
+yawn/512.jpg.png,yawn,no_yawn,,,yawn,0.6298252,0.37017477,1,0,Alert,9
+yawn/594.jpg.png,yawn,no_yawn,,,yawn,0.95870936,0.041290633,1,0,Alert,9
+yawn/601.jpg.png,yawn,no_yawn,,,yawn,0.8539785,0.14602152,1,0,Alert,10
+yawn/608.jpg.png,yawn,no_yawn,,,yawn,0.8136819,0.18631811,1,0,Alert,10
+yawn/68.jpg.png,yawn,no_yawn,,,yawn,0.7297951,0.27020487,1,0,Alert,10
+yawn/69.jpg.png,yawn,no_yawn,,,yawn,0.82576615,0.17423385,1,0,Alert,10
+yawn/249.jpg.png,yawn,yawn,,,yawn,0.47972444,0.5202756,1,1,Mild Fatigue,10
+yawn/282.jpg.png,yawn,yawn,,,yawn,0.30403033,0.69596976,1,1,Mild Fatigue,10
+yawn/298.jpg.png,yawn,yawn,,,yawn,0.32047066,0.6795293,1,1,Mild Fatigue,10
+yawn/30.jpg.png,yawn,yawn,,,yawn,0.00046914106,0.99953085,1,1,Mild Fatigue,10
+yawn/301.jpg.png,yawn,yawn,,,yawn,0.043467402,0.9565326,1,1,Mild Fatigue,10
+yawn/304.jpg.png,yawn,yawn,,,yawn,0.14177556,0.8582244,1,1,Mild Fatigue,10
+yawn/309.jpg.png,yawn,yawn,,,yawn,0.053059872,0.9469401,1,1,Mild Fatigue,11
+yawn/313.jpg.png,yawn,yawn,,,yawn,0.21166718,0.78833276,1,1,Mild Fatigue,11
+yawn/324.jpg.png,yawn,yawn,,,yawn,0.3251273,0.6748727,1,1,Mild Fatigue,11
+yawn/342.jpg.png,yawn,yawn,,,yawn,0.48815495,0.5118451,1,1,Mild Fatigue,11
+yawn/355.jpg.png,yawn,yawn,,,yawn,0.4177975,0.58220243,1,1,Mild Fatigue,11
+yawn/366.jpg.png,yawn,yawn,,,yawn,0.08375403,0.91624594,1,1,Mild Fatigue,11
+yawn/37.jpg.png,yawn,yawn,,,yawn,0.00015303354,0.99984694,1,1,Mild Fatigue,11
+yawn/409.jpg.png,yawn,yawn,,,yawn,0.00031620287,0.9996838,1,1,Mild Fatigue,11
+yawn/412.jpg.png,yawn,yawn,,,yawn,0.0003582404,0.9996418,1,1,Mild Fatigue,11
+yawn/416.jpg.png,yawn,yawn,,,yawn,0.06707505,0.9329249,1,1,Mild Fatigue,11
+yawn/426.jpg.png,yawn,yawn,,,yawn,6.4243286e-05,0.99993575,1,1,Mild Fatigue,12
+yawn/43.jpg.png,yawn,yawn,,,yawn,0.39116257,0.6088374,1,1,Mild Fatigue,12
+yawn/432.jpg.png,yawn,yawn,,,yawn,0.14906807,0.85093194,1,1,Mild Fatigue,12
+yawn/435.jpg.png,yawn,yawn,,,yawn,0.13133736,0.8686626,1,1,Mild Fatigue,12
+yawn/440.jpg.png,yawn,yawn,,,yawn,0.114604935,0.88539505,1,1,Mild Fatigue,12
+yawn/45.jpg.png,yawn,yawn,,,yawn,0.12991507,0.87008494,1,1,Mild Fatigue,12
+yawn/486.jpg.png,yawn,yawn,,,yawn,0.12615402,0.873846,1,1,Mild Fatigue,12
+yawn/489.jpg.png,yawn,yawn,,,yawn,0.23254798,0.767452,1,1,Mild Fatigue,12
+yawn/517.jpg.png,yawn,yawn,,,yawn,0.24089193,0.75910807,1,1,Mild Fatigue,12
+yawn/522.jpg.png,yawn,yawn,,,yawn,0.46364415,0.53635585,1,1,Mild Fatigue,12
+yawn/565.jpg.png,yawn,yawn,,,yawn,0.0004148384,0.9995852,1,1,Mild Fatigue,13
+yawn/616.jpg.png,yawn,yawn,,,yawn,0.39854646,0.60145354,1,1,Mild Fatigue,13
+yawn/631.jpg.png,yawn,yawn,,,yawn,0.31276166,0.68723834,1,1,Mild Fatigue,13
+yawn/642.jpg.png,yawn,yawn,,,yawn,0.00034589163,0.99965405,1,1,Mild Fatigue,13
+yawn/643.jpg.png,yawn,yawn,,,yawn,0.00044382893,0.9995561,1,1,Mild Fatigue,13
+yawn/655.jpg.png,yawn,yawn,,,yawn,0.004970004,0.9950299,1,1,Mild Fatigue,13
+yawn/657.jpg.png,yawn,yawn,,,yawn,0.0014932617,0.9985067,1,1,Mild Fatigue,13
+yawn/670.jpg.png,yawn,yawn,,,yawn,1.6942713e-05,0.9999831,1,1,Mild Fatigue,13
+yawn/686.jpg.png,yawn,yawn,,,yawn,0.00031116535,0.9996888,1,1,Mild Fatigue,13
+yawn/700.jpg.png,yawn,yawn,,,yawn,0.00032017005,0.99967974,1,1,Mild Fatigue,13
+yawn/720.jpg.png,yawn,yawn,,,yawn,0.0001739459,0.9998261,1,1,Mild Fatigue,14
+yawn/725.jpg.png,yawn,yawn,,,yawn,0.00016238996,0.99983764,1,1,Mild Fatigue,14
+yawn/726.jpg.png,yawn,yawn,,,yawn,0.00031986556,0.9996801,1,1,Mild Fatigue,14
+yawn/77.jpg.png,yawn,yawn,,,yawn,0.1166269,0.8833731,1,1,Mild Fatigue,14
+yawn/88.jpg.png,yawn,yawn,,,yawn,0.0041709156,0.99582905,1,1,Mild Fatigue,14
+yawn/92.jpg.png,yawn,yawn,,,yawn,0.0027348772,0.9972651,1,1,Mild Fatigue,14
+yawn/95.jpg.png,yawn,yawn,,,yawn,0.0019458455,0.99805415,1,1,Mild Fatigue,14
+yawn/97.jpg.png,yawn,yawn,,,yawn,0.12324581,0.8767542,1,1,Mild Fatigue,14
+Closed/_117.jpg.png,Closed,Closed,0.5486099,0.45139006,eyes,,,2,2,Severe Fatigue,14
+Closed/_124.jpg.png,Closed,Closed,0.62564194,0.37435803,eyes,,,2,2,Severe Fatigue,14
+Closed/_142.jpg.png,Closed,Closed,0.65799725,0.3420028,eyes,,,2,2,Severe Fatigue,15
+Closed/_151.jpg.png,Closed,Closed,0.5824661,0.41753393,eyes,,,2,2,Severe Fatigue,15
+Closed/_163.jpg.png,Closed,Closed,0.5497325,0.45026746,eyes,,,2,2,Severe Fatigue,15
+Closed/_18.jpg.png,Closed,Closed,0.65326864,0.34673142,eyes,,,2,2,Severe Fatigue,15
+Closed/_186.jpg.png,Closed,Closed,0.6154458,0.38455433,eyes,,,2,2,Severe Fatigue,15
+Closed/_194.jpg.png,Closed,Closed,0.6120605,0.38793957,eyes,,,2,2,Severe Fatigue,15
+Closed/_209.jpg.png,Closed,Closed,0.56595445,0.43404555,eyes,,,2,2,Severe Fatigue,15
+Closed/_216.jpg.png,Closed,Closed,0.5400822,0.45991772,eyes,,,2,2,Severe Fatigue,15
+Closed/_226.jpg.png,Closed,Closed,0.635926,0.36407405,eyes,,,2,2,Severe Fatigue,15
+Closed/_229.jpg.png,Closed,Closed,0.6531431,0.34685692,eyes,,,2,2,Severe Fatigue,15
+Closed/_241.jpg.png,Closed,Closed,0.6167293,0.38327062,eyes,,,2,2,Severe Fatigue,16
+Closed/_243.jpg.png,Closed,Closed,0.62985086,0.3701492,eyes,,,2,2,Severe Fatigue,16
+Closed/_271.jpg.png,Closed,Closed,0.6092669,0.39073318,eyes,,,2,2,Severe Fatigue,16
+Closed/_284.jpg.png,Closed,Closed,0.6432379,0.35676208,eyes,,,2,2,Severe Fatigue,16
+Closed/_290.jpg.png,Closed,Closed,0.62986684,0.3701332,eyes,,,2,2,Severe Fatigue,16
+Closed/_295.jpg.png,Closed,Closed,0.64759403,0.35240594,eyes,,,2,2,Severe Fatigue,16
+Closed/_318.jpg.png,Closed,Closed,0.60174716,0.39825282,eyes,,,2,2,Severe Fatigue,16
+Closed/_319.jpg.png,Closed,Closed,0.61537516,0.3846248,eyes,,,2,2,Severe Fatigue,16
+Closed/_321.jpg.png,Closed,Closed,0.611229,0.38877106,eyes,,,2,2,Severe Fatigue,16
+Closed/_324.jpg.png,Closed,Closed,0.5980635,0.40193644,eyes,,,2,2,Severe Fatigue,16
+Closed/_325.jpg.png,Closed,Closed,0.6040778,0.3959222,eyes,,,2,2,Severe Fatigue,17
+Closed/_342.jpg.png,Closed,Closed,0.5748631,0.42513692,eyes,,,2,2,Severe Fatigue,17
+Closed/_363.jpg.png,Closed,Closed,0.6279418,0.37205827,eyes,,,2,2,Severe Fatigue,17
+Closed/_364.jpg.png,Closed,Closed,0.6097011,0.3902989,eyes,,,2,2,Severe Fatigue,17
+Closed/_370.jpg.png,Closed,Closed,0.6141943,0.38580573,eyes,,,2,2,Severe Fatigue,17
+Closed/_375.jpg.png,Closed,Closed,0.61399573,0.38600427,eyes,,,2,2,Severe Fatigue,17
+Closed/_380.jpg.png,Closed,Closed,0.6075366,0.39246336,eyes,,,2,2,Severe Fatigue,17
+Closed/_385.jpg.png,Closed,Closed,0.59069765,0.4093024,eyes,,,2,2,Severe Fatigue,17
+Closed/_390.jpg.png,Closed,Closed,0.567182,0.432818,eyes,,,2,2,Severe Fatigue,17
+Closed/_399.jpg.png,Closed,Closed,0.66033083,0.3396692,eyes,,,2,2,Severe Fatigue,17
+Closed/_41.jpg.png,Closed,Closed,0.6379881,0.3620119,eyes,,,2,2,Severe Fatigue,18
+Closed/_414.jpg.png,Closed,Closed,0.60288525,0.39711478,eyes,,,2,2,Severe Fatigue,18
+Closed/_438.jpg.png,Closed,Closed,0.59029937,0.40970063,eyes,,,2,2,Severe Fatigue,18
+Closed/_450.jpg.png,Closed,Closed,0.60043484,0.3995652,eyes,,,2,2,Severe Fatigue,18
+Closed/_459.jpg.png,Closed,Closed,0.6315201,0.36847988,eyes,,,2,2,Severe Fatigue,18
+Closed/_464.jpg.png,Closed,Closed,0.61190933,0.38809067,eyes,,,2,2,Severe Fatigue,18
+Closed/_470.jpg.png,Closed,Closed,0.60805374,0.39194626,eyes,,,2,2,Severe Fatigue,18
+Closed/_48.jpg.png,Closed,Closed,0.6183974,0.3816026,eyes,,,2,2,Severe Fatigue,18
+Closed/_480.jpg.png,Closed,Closed,0.5402287,0.45977122,eyes,,,2,2,Severe Fatigue,18
+Closed/_482.jpg.png,Closed,Closed,0.596807,0.403193,eyes,,,2,2,Severe Fatigue,18
+Closed/_501.jpg.png,Closed,Closed,0.5878361,0.4121639,eyes,,,2,2,Severe Fatigue,19
+Closed/_510.jpg.png,Closed,Closed,0.6134768,0.38652328,eyes,,,2,2,Severe Fatigue,19
+Closed/_514.jpg.png,Closed,Closed,0.5818664,0.41813368,eyes,,,2,2,Severe Fatigue,19
+Closed/_518.jpg.png,Closed,Closed,0.5845372,0.41546273,eyes,,,2,2,Severe Fatigue,19
+Closed/_524.jpg.png,Closed,Closed,0.60209167,0.3979084,eyes,,,2,2,Severe Fatigue,19
+Closed/_526.jpg.png,Closed,Closed,0.6199209,0.38007912,eyes,,,2,2,Severe Fatigue,19
+Closed/_527.jpg.png,Closed,Closed,0.62693727,0.37306276,eyes,,,2,2,Severe Fatigue,19
+Closed/_541.jpg.png,Closed,Closed,0.5996302,0.40036976,eyes,,,2,2,Severe Fatigue,19
+Closed/_542.jpg.png,Closed,Closed,0.60890293,0.39109713,eyes,,,2,2,Severe Fatigue,19
+Closed/_555.jpg.png,Closed,Closed,0.6434754,0.3565246,eyes,,,2,2,Severe Fatigue,19
+Closed/_556.jpg.png,Closed,Closed,0.58547544,0.4145245,eyes,,,2,2,Severe Fatigue,20
+Closed/_562.jpg.png,Closed,Closed,0.6018027,0.3981973,eyes,,,2,2,Severe Fatigue,20
+Closed/_571.jpg.png,Closed,Closed,0.52791846,0.4720816,eyes,,,2,2,Severe Fatigue,20
+Closed/_6.jpg.png,Closed,Closed,0.63371825,0.36628184,eyes,,,2,2,Severe Fatigue,20
+Closed/_614.jpg.png,Closed,Closed,0.6269099,0.37309012,eyes,,,2,2,Severe Fatigue,20
+Closed/_623.jpg.png,Closed,Closed,0.64361584,0.3563841,eyes,,,2,2,Severe Fatigue,20
+Closed/_629.jpg.png,Closed,Closed,0.5892496,0.41075042,eyes,,,2,2,Severe Fatigue,20
+Closed/_656.jpg.png,Closed,Closed,0.596063,0.403937,eyes,,,2,2,Severe Fatigue,20
+Closed/_664.jpg.png,Closed,Closed,0.5984457,0.4015543,eyes,,,2,2,Severe Fatigue,20
+Closed/_666.jpg.png,Closed,Closed,0.6011399,0.39886007,eyes,,,2,2,Severe Fatigue,20
+Closed/_675.jpg.png,Closed,Closed,0.6069762,0.39302373,eyes,,,2,2,Severe Fatigue,21
+Closed/_686.jpg.png,Closed,Closed,0.59516555,0.4048345,eyes,,,2,2,Severe Fatigue,21
+Closed/_689.jpg.png,Closed,Closed,0.607701,0.392299,eyes,,,2,2,Severe Fatigue,21
+Closed/_697.jpg.png,Closed,Closed,0.62603796,0.37396201,eyes,,,2,2,Severe Fatigue,21
+Closed/_701.jpg.png,Closed,Closed,0.611508,0.38849205,eyes,,,2,2,Severe Fatigue,21
+Closed/_718.jpg.png,Closed,Closed,0.62039167,0.37960833,eyes,,,2,2,Severe Fatigue,21
+Closed/_722.jpg.png,Closed,Closed,0.60118383,0.39881614,eyes,,,2,2,Severe Fatigue,21
+Closed/_723.jpg.png,Closed,Closed,0.5988164,0.40118358,eyes,,,2,2,Severe Fatigue,21
+Closed/_75.jpg.png,Closed,Closed,0.636654,0.36334604,eyes,,,2,2,Severe Fatigue,21
+Closed/_79.jpg.png,Closed,Closed,0.6067574,0.39324257,eyes,,,2,2,Severe Fatigue,21
+Closed/_92.jpg.png,Closed,Closed,0.6189357,0.38106427,eyes,,,2,2,Severe Fatigue,22
+Closed/_99.jpg.png,Closed,Closed,0.5300505,0.46994948,eyes,,,2,2,Severe Fatigue,22
+Open/_102.jpg.png,Open,Closed,0.6090503,0.39094967,eyes,,,0,2,Severe Fatigue,22
+Open/_120.jpg.png,Open,Closed,0.609404,0.39059606,eyes,,,0,2,Severe Fatigue,22
+Open/_123.jpg.png,Open,Closed,0.65455943,0.3454406,eyes,,,0,2,Severe Fatigue,22
+Open/_144.jpg.png,Open,Closed,0.6136273,0.38637275,eyes,,,0,2,Severe Fatigue,22
+Open/_152.jpg.png,Open,Closed,0.60205775,0.39794227,eyes,,,0,2,Severe Fatigue,22
+Open/_159.jpg.png,Open,Closed,0.6037164,0.39628366,eyes,,,0,2,Severe Fatigue,22
+Open/_161.jpg.png,Open,Closed,0.568419,0.431581,eyes,,,0,2,Severe Fatigue,22
+Open/_176.jpg.png,Open,Closed,0.65519243,0.3448076,eyes,,,0,2,Severe Fatigue,22
+Open/_181.jpg.png,Open,Closed,0.61749923,0.38250083,eyes,,,0,2,Severe Fatigue,23
+Open/_183.jpg.png,Open,Closed,0.6348155,0.36518446,eyes,,,0,2,Severe Fatigue,23
+Open/_185.jpg.png,Open,Closed,0.554553,0.44544706,eyes,,,0,2,Severe Fatigue,23
+Open/_186.jpg.png,Open,Closed,0.5395737,0.46042627,eyes,,,0,2,Severe Fatigue,23
+Open/_193.jpg.png,Open,Closed,0.65056413,0.3494359,eyes,,,0,2,Severe Fatigue,23
+Open/_197.jpg.png,Open,Closed,0.62289673,0.37710318,eyes,,,0,2,Severe Fatigue,23
+Open/_202.jpg.png,Open,Closed,0.61375517,0.38624483,eyes,,,0,2,Severe Fatigue,23
+Open/_21.jpg.png,Open,Closed,0.5891736,0.41082639,eyes,,,0,2,Severe Fatigue,23
+Open/_217.jpg.png,Open,Closed,0.6161759,0.3838241,eyes,,,0,2,Severe Fatigue,23
+Open/_228.jpg.png,Open,Closed,0.6083736,0.39162642,eyes,,,0,2,Severe Fatigue,23
+Open/_229.jpg.png,Open,Closed,0.60474336,0.3952566,eyes,,,0,2,Severe Fatigue,24
+Open/_238.jpg.png,Open,Closed,0.5847768,0.41522315,eyes,,,0,2,Severe Fatigue,24
+Open/_24.jpg.png,Open,Closed,0.5985612,0.4014388,eyes,,,0,2,Severe Fatigue,24
+Open/_263.jpg.png,Open,Closed,0.61960816,0.38039193,eyes,,,0,2,Severe Fatigue,24
+Open/_264.jpg.png,Open,Closed,0.6412297,0.35877028,eyes,,,0,2,Severe Fatigue,24
+Open/_293.jpg.png,Open,Closed,0.576018,0.42398202,eyes,,,0,2,Severe Fatigue,24
+Open/_303.jpg.png,Open,Closed,0.6234996,0.3765005,eyes,,,0,2,Severe Fatigue,24
+Open/_305.jpg.png,Open,Closed,0.6044981,0.39550185,eyes,,,0,2,Severe Fatigue,24
+Open/_332.jpg.png,Open,Closed,0.5713586,0.42864144,eyes,,,0,2,Severe Fatigue,24
+Open/_343.jpg.png,Open,Closed,0.6018293,0.39817077,eyes,,,0,2,Severe Fatigue,24
+Open/_349.jpg.png,Open,Closed,0.5750252,0.42497483,eyes,,,0,2,Severe Fatigue,25
+Open/_354.jpg.png,Open,Closed,0.53629816,0.46370184,eyes,,,0,2,Severe Fatigue,25
+Open/_362.jpg.png,Open,Closed,0.62978786,0.3702122,eyes,,,0,2,Severe Fatigue,25
+Open/_382.jpg.png,Open,Closed,0.607055,0.39294496,eyes,,,0,2,Severe Fatigue,25
+Open/_385.jpg.png,Open,Closed,0.5852354,0.41476458,eyes,,,0,2,Severe Fatigue,25
+Open/_386.jpg.png,Open,Closed,0.6088424,0.3911577,eyes,,,0,2,Severe Fatigue,25
+Open/_400.jpg.png,Open,Closed,0.62030894,0.3796911,eyes,,,0,2,Severe Fatigue,25
+Open/_41.jpg.png,Open,Closed,0.6200568,0.3799432,eyes,,,0,2,Severe Fatigue,25
+Open/_42.jpg.png,Open,Closed,0.55133605,0.4486639,eyes,,,0,2,Severe Fatigue,25
+Open/_420.jpg.png,Open,Closed,0.6078199,0.3921801,eyes,,,0,2,Severe Fatigue,25
+Open/_421.jpg.png,Open,Closed,0.606339,0.39366105,eyes,,,0,2,Severe Fatigue,26
+Open/_423.jpg.png,Open,Closed,0.5704798,0.42952025,eyes,,,0,2,Severe Fatigue,26
+Open/_436.jpg.png,Open,Closed,0.5946375,0.40536258,eyes,,,0,2,Severe Fatigue,26
+Open/_440.jpg.png,Open,Closed,0.6132297,0.3867703,eyes,,,0,2,Severe Fatigue,26
+Open/_442.jpg.png,Open,Closed,0.5793463,0.42065373,eyes,,,0,2,Severe Fatigue,26
+Open/_467.jpg.png,Open,Closed,0.5998253,0.40017468,eyes,,,0,2,Severe Fatigue,26
+Open/_476.jpg.png,Open,Closed,0.59261954,0.40738043,eyes,,,0,2,Severe Fatigue,26
+Open/_480.jpg.png,Open,Closed,0.5882642,0.41173583,eyes,,,0,2,Severe Fatigue,26
+Open/_488.jpg.png,Open,Closed,0.6042476,0.39575237,eyes,,,0,2,Severe Fatigue,26
+Open/_491.jpg.png,Open,Closed,0.5472111,0.45278892,eyes,,,0,2,Severe Fatigue,26
+Open/_493.jpg.png,Open,Closed,0.62519455,0.3748054,eyes,,,0,2,Severe Fatigue,27
+Open/_496.jpg.png,Open,Closed,0.57092184,0.4290782,eyes,,,0,2,Severe Fatigue,27
+Open/_534.jpg.png,Open,Closed,0.6338796,0.3661204,eyes,,,0,2,Severe Fatigue,27
+Open/_541.jpg.png,Open,Closed,0.54540473,0.45459536,eyes,,,0,2,Severe Fatigue,27
+Open/_565.jpg.png,Open,Closed,0.54313797,0.45686212,eyes,,,0,2,Severe Fatigue,27
+Open/_61.jpg.png,Open,Closed,0.57285666,0.42714337,eyes,,,0,2,Severe Fatigue,27
+Open/_610.jpg.png,Open,Closed,0.63690615,0.36309382,eyes,,,0,2,Severe Fatigue,27
+Open/_614.jpg.png,Open,Closed,0.56617737,0.4338227,eyes,,,0,2,Severe Fatigue,27
+Open/_615.jpg.png,Open,Closed,0.5451022,0.45489782,eyes,,,0,2,Severe Fatigue,27
+Open/_619.jpg.png,Open,Closed,0.61602193,0.38397807,eyes,,,0,2,Severe Fatigue,27
+Open/_626.jpg.png,Open,Closed,0.6231228,0.3768771,eyes,,,0,2,Severe Fatigue,28
+Open/_63.jpg.png,Open,Closed,0.60251707,0.39748287,eyes,,,0,2,Severe Fatigue,28
+Open/_638.jpg.png,Open,Closed,0.59167373,0.4083263,eyes,,,0,2,Severe Fatigue,28
+Open/_650.jpg.png,Open,Closed,0.5834454,0.41655457,eyes,,,0,2,Severe Fatigue,28
+Open/_659.jpg.png,Open,Closed,0.5796237,0.4203763,eyes,,,0,2,Severe Fatigue,28
+Open/_663.jpg.png,Open,Closed,0.5827542,0.4172458,eyes,,,0,2,Severe Fatigue,28
+Open/_670.jpg.png,Open,Closed,0.5865549,0.41344503,eyes,,,0,2,Severe Fatigue,28
+Open/_690.jpg.png,Open,Closed,0.58187723,0.41812277,eyes,,,0,2,Severe Fatigue,28
+Open/_702.jpg.png,Open,Closed,0.58008045,0.41991958,eyes,,,0,2,Severe Fatigue,28
+Open/_710.jpg.png,Open,Closed,0.54931045,0.45068952,eyes,,,0,2,Severe Fatigue,28
+Open/_715.jpg.png,Open,Closed,0.62351274,0.37648726,eyes,,,0,2,Severe Fatigue,29
+Open/_78.jpg.png,Open,Closed,0.59794146,0.4020585,eyes,,,0,2,Severe Fatigue,29
+Open/_79.jpg.png,Open,Closed,0.63136107,0.36863887,eyes,,,0,2,Severe Fatigue,29
+Open/_81.jpg.png,Open,Closed,0.623697,0.376303,eyes,,,0,2,Severe Fatigue,29
+Open/_94.jpg.png,Open,Closed,0.60563046,0.39436954,eyes,,,0,2,Severe Fatigue,29
+Open/_97.jpg.png,Open,Closed,0.5414633,0.4585367,eyes,,,0,2,Severe Fatigue,29

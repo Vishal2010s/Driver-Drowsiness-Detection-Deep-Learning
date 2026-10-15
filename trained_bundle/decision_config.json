@@ -1,0 +1,8 @@
+{
+  "confidence_threshold": 0.7,
+  "sustained_eye_closure_seconds": 2.0,
+  "yawn_window_seconds": 60.0,
+  "yawn_events_threshold": 3,
+  "max_valid_sample_gap_seconds": 1.0,
+  "validated": false
+}

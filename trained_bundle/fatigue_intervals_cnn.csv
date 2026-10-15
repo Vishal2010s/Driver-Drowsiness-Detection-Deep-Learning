@@ -1,0 +1,31 @@
+interval,fatigue_score,frame_count,stage,simulation_type
+0,0.0,10,Alert,constructed from predicted stages
+1,0.0,10,Alert,constructed from predicted stages
+2,0.0,10,Alert,constructed from predicted stages
+3,0.0,10,Alert,constructed from predicted stages
+4,0.5,10,Mild Fatigue,constructed from predicted stages
+5,1.0,10,Mild Fatigue,constructed from predicted stages
+6,1.0,10,Mild Fatigue,constructed from predicted stages
+7,0.3,10,Alert,constructed from predicted stages
+8,0.0,10,Alert,constructed from predicted stages
+9,0.0,10,Alert,constructed from predicted stages
+10,0.6,10,Mild Fatigue,constructed from predicted stages
+11,1.0,10,Mild Fatigue,constructed from predicted stages
+12,1.0,10,Mild Fatigue,constructed from predicted stages
+13,1.0,10,Mild Fatigue,constructed from predicted stages
+14,1.2,10,Mild Fatigue,constructed from predicted stages
+15,2.0,10,Severe Fatigue,constructed from predicted stages
+16,2.0,10,Severe Fatigue,constructed from predicted stages
+17,2.0,10,Severe Fatigue,constructed from predicted stages
+18,2.0,10,Severe Fatigue,constructed from predicted stages
+19,2.0,10,Severe Fatigue,constructed from predicted stages
+20,2.0,10,Severe Fatigue,constructed from predicted stages
+21,2.0,10,Severe Fatigue,constructed from predicted stages
+22,2.0,10,Severe Fatigue,constructed from predicted stages
+23,2.0,10,Severe Fatigue,constructed from predicted stages
+24,2.0,10,Severe Fatigue,constructed from predicted stages
+25,2.0,10,Severe Fatigue,constructed from predicted stages
+26,2.0,10,Severe Fatigue,constructed from predicted stages
+27,2.0,10,Severe Fatigue,constructed from predicted stages
+28,2.0,10,Severe Fatigue,constructed from predicted stages
+29,2.0,6,Severe Fatigue,constructed from predicted stages

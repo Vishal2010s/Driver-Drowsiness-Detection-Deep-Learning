@@ -1,0 +1,5 @@
+predicted,fatigue_stage,fatigue_label,count
+Closed,2,Severe Fatigue,72
+Open,0,Alert,76
+no_yawn,0,Alert,88
+yawn,1,Mild Fatigue,60
