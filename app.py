@@ -1,5 +1,3 @@
-import hashlib
-
 import json
 
 from pathlib import Path
@@ -15,6 +13,8 @@ import streamlit as st
 import tensorflow as tf
 
 import cv2
+
+st.set_page_config(page_title='Driver eye and yawn dashboard', layout='wide')
 
 st.title('Driver eye and yawn dashboard')
 
@@ -268,25 +268,6 @@ with prediction:
         st.error(f'Cannot load prediction models: {exc}')
 
         st.stop()
-        
-    mode = st.radio(
-    'Input',
-    ['Image upload', 'Camera snapshot'],
-    horizontal=True,
-    key='prediction_input_mode'
-    )
-
-    if mode == 'Camera snapshot':
-        upload = st.camera_input(
-            'Driver portrait',
-            key='prediction_camera'
-        )
-    else:
-        upload = st.file_uploader(
-            'Driver portrait',
-            type=['jpg', 'jpeg', 'png', 'webp'],
-            key='prediction_upload'
-        )
 
     # mode = st.radio('Input', ['Image upload', 'Camera snapshot'], horizontal=True, key='prediction_input_mode')
 
@@ -297,7 +278,11 @@ with prediction:
     # else:
 
     #     upload = st.file_uploader('Driver portrait', type=['jpg', 'jpeg', 'png', 'webp'], key='prediction_upload')
-    
+    upload = st.file_uploader(
+    'Driver portrait',
+    type=['jpg', 'jpeg', 'png', 'webp'],
+    key='prediction_upload'
+    )
     
     if upload is not None:
 
