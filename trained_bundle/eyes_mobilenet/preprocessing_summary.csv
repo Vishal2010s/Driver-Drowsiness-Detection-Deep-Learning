@@ -1,0 +1,2 @@
+model,image_height,image_width,batch_size,pixel_min,pixel_max,train_images,validation_images,test_images,class_indices
+eyes_mobilenet,224,224,32,-1.0,1.0,1163,144,148,"{'Closed': 0, 'Open': 1}"

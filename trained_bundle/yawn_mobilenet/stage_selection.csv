@@ -1,0 +1,3 @@
+stage,val_loss
+frozen,0.3903280794620514
+fine_tuned,0.25193074345588684
