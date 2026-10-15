@@ -15,10 +15,6 @@ import streamlit as st
 import tensorflow as tf
 
 import cv2
-st.write("OpenCV version:", getattr(cv2, "__version__", "Unknown"))
-st.write("OpenCV location:", getattr(cv2, "__file__", "Unknown"))
-st.write("CascadeClassifier available:", hasattr(cv2, "CascadeClassifier"))
-st.set_page_config(page_title='Driver eye and yawn dashboard', layout='wide')
 
 st.title('Driver eye and yawn dashboard')
 
@@ -273,15 +269,15 @@ with prediction:
 
         st.stop()
 
-    # mode = st.radio('Input', ['Image upload', 'Camera snapshot'], horizontal=True, key='prediction_input_mode')
+    mode = st.radio('Input', ['Image upload', 'Camera snapshot'], horizontal=True, key='prediction_input_mode')
 
-    # if mode == 'Camera snapshot':
+    if mode == 'Camera snapshot':
 
-    #     upload = st.camera_input('Driver portrait', key='prediction_camera')
+        upload = st.camera_input('Driver portrait', key='prediction_camera')
 
-    # else:
+    else:
 
-    #     upload = st.file_uploader('Driver portrait', type=['jpg', 'jpeg', 'png', 'webp'], key='prediction_upload')
+        upload = st.file_uploader('Driver portrait', type=['jpg', 'jpeg', 'png', 'webp'], key='prediction_upload')
     upload = st.file_uploader(
     'Driver portrait',
     type=['jpg', 'jpeg', 'png', 'webp'],
