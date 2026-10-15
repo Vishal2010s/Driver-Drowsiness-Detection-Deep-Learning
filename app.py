@@ -1,12 +1,8 @@
-"""Run: streamlit run app_final_corrected.py. Sequential implementation without def functions."""
-
 import hashlib
 
 import json
 
 from pathlib import Path
-
-import cv2
 
 import numpy as np
 
@@ -17,6 +13,8 @@ from PIL import Image
 import streamlit as st
 
 import tensorflow as tf
+
+import cv2
 
 st.set_page_config(page_title='Driver eye and yawn dashboard', layout='wide')
 
