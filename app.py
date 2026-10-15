@@ -268,16 +268,35 @@ with prediction:
         st.error(f'Cannot load prediction models: {exc}')
 
         st.stop()
+        
+        mode = st.radio(
+        'Input',
+        ['Image upload', 'Camera snapshot'],
+        horizontal=True,
+        key='prediction_input_mode'
+        )
 
-    mode = st.radio('Input', ['Image upload', 'Camera snapshot'], horizontal=True, key='prediction_input_mode')
+        if mode == 'Camera snapshot':
+            upload = st.camera_input(
+                'Driver portrait',
+                key='prediction_camera'
+            )
+        else:
+            upload = st.file_uploader(
+                'Driver portrait',
+                type=['jpg', 'jpeg', 'png', 'webp'],
+                key='prediction_upload'
+            )
 
-    if mode == 'Camera snapshot':
+    # mode = st.radio('Input', ['Image upload', 'Camera snapshot'], horizontal=True, key='prediction_input_mode')
 
-        upload = st.camera_input('Driver portrait', key='prediction_camera')
+    # if mode == 'Camera snapshot':
 
-    else:
+    #     upload = st.camera_input('Driver portrait', key='prediction_camera')
 
-        upload = st.file_uploader('Driver portrait', type=['jpg', 'jpeg', 'png', 'webp'], key='prediction_upload')
+    # else:
+
+    #     upload = st.file_uploader('Driver portrait', type=['jpg', 'jpeg', 'png', 'webp'], key='prediction_upload')
     
     
     if upload is not None:
