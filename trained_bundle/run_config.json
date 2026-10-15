@@ -1,0 +1,25 @@
+{
+  "source_dir": "/content/drive/MyDrive/project/archive/train",
+  "seed": 42,
+  "epochs": 30,
+  "batch_size": 32,
+  "image_size": [
+    224,
+    224
+  ],
+  "split_ratios": [
+    0.8,
+    0.1,
+    0.1
+  ],
+  "subject_disjoint": false,
+  "mobilenet_fine_tuning_enabled": true,
+  "fine_tune_epochs": 15,
+  "fine_tune_lr": 1e-05,
+  "selected_stage": {
+    "eyes_cnn": "baseline",
+    "yawn_cnn": "baseline",
+    "eyes_mobilenet": "fine_tuned",
+    "yawn_mobilenet": "fine_tuned"
+  }
+}

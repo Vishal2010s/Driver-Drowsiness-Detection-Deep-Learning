@@ -1,0 +1,3 @@
+model,correct,test_images,test_accuracy_percent
+Custom CNN,202,296,68.24324324324324
+MobileNetV2,276,296,93.24324324324324

@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "tensorflow": "2.20.0",
+  "image_size": [
+    224,
+    224
+  ],
+  "resize": "nearest",
+  "color": "RGB",
+  "orientation": "stored_pixels_no_exif_rotation",
+  "models": {
+    "eyes": {
+      "cnn": {
+        "file": "best_eyes_cnn.keras",
+        "sha256": "cb5c183d90c3d11403a42c8d4facbb45669b981f306a3df9badc672a80c6e9e4",
+        "classes": [
+          "Closed",
+          "Open"
+        ],
+        "preprocessing": "divide_255",
+        "example": "eyes_cnn_example.png",
+        "expected_probabilities": [
+          0.5486098527908325,
+          0.4513900876045227
+        ]
+      },
+      "mobilenet": {
+        "file": "best_eyes_mobilenet.keras",
+        "sha256": "1d094f95bd10229d4419714e0f178bd6f0a65e6ca9df93ba405d25c5a6f3d4c7",
+        "classes": [
+          "Closed",
+          "Open"
+        ],
+        "preprocessing": "mobilenet_v2",
+        "example": "eyes_mobilenet_example.png",
+        "expected_probabilities": [
+          0.999991774559021,
+          8.168090062099509e-06
+        ]
+      }
+    },
+    "yawn": {
+      "cnn": {
+        "file": "best_yawn_cnn.keras",
+        "sha256": "52d391a1830eb344b3740897630c534ac230895bbd84634e3d0ca12333877b1f",
+        "classes": [
+          "no_yawn",
+          "yawn"
+        ],
+        "preprocessing": "divide_255",
+        "example": "yawn_cnn_example.png",
+        "expected_probabilities": [
+          0.9546339511871338,
+          0.0453660674393177
+        ]
+      },
+      "mobilenet": {
+        "file": "best_yawn_mobilenet.keras",
+        "sha256": "60143ef61914067078a71f86a408a8e2ab01fbfb0b073a28c2d8d40718e70d3d",
+        "classes": [
+          "no_yawn",
+          "yawn"
+        ],
+        "preprocessing": "mobilenet_v2",
+        "example": "yawn_mobilenet_example.png",
+        "expected_probabilities": [
+          0.9938409328460693,
+          0.006159062962979078
+        ]
+      }
+    }
+  }
+}
