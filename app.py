@@ -270,6 +270,11 @@ with prediction:
         st.stop()
 
     mode = st.radio('Input', ['Image upload', 'Camera snapshot'], horizontal=True, key='prediction_input_mode')
+    upload = st.file_uploader(
+    'Driver portrait',
+    type=['jpg', 'jpeg', 'png', 'webp'],
+    key='prediction_upload'
+    )
 
     if mode == 'Camera snapshot':
 
@@ -278,11 +283,7 @@ with prediction:
     else:
 
         upload = st.file_uploader('Driver portrait', type=['jpg', 'jpeg', 'png', 'webp'], key='prediction_upload')
-    upload = st.file_uploader(
-    'Driver portrait',
-    type=['jpg', 'jpeg', 'png', 'webp'],
-    key='prediction_upload'
-    )
+    
     
     if upload is not None:
 
