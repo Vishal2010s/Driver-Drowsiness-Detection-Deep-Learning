@@ -2,6 +2,8 @@ import json
 
 from pathlib import Path
 
+import hashlib
+
 import numpy as np
 
 import pandas as pd
@@ -13,8 +15,6 @@ import streamlit as st
 import tensorflow as tf
 
 import cv2
-
-import hashlib
 
 st.set_page_config(page_title='Driver eye and yawn dashboard', layout='wide')
 
@@ -228,16 +228,15 @@ with prediction:
                         raise ValueError(f"{task}_{kind}: unexpected class order {spec['classes']} != {expected_classes}")
 
                     key = task + '_' + kind
-                    
-                    # if key == "yawn_mobilenet":
-                    #     st.write("Model file:", spec["file"])
-                    #     st.write("Expected SHA-256:", spec["sha256"])
-                    #     st.write("Actual SHA-256:", fingerprints[key])
-
 
                     if fingerprints[key] != spec['sha256']:
 
-                        raise ValueError(f'{key}: model hash differs from metadata')
+                        raise ValueError(
+                            f"{key}: model SHA-256 differs from metadata. "
+                            f"Model file: {spec['file']!r}; "
+                            f"Expected SHA-256: {spec['sha256']!r}; "
+                            f"Actual SHA-256: {fingerprints[key]!r}"
+                        )
 
                     model_path = root / spec['file']
 
@@ -277,21 +276,20 @@ with prediction:
 
         st.stop()
 
-    mode = st.radio('Input', ['Image upload', 'Camera snapshot'], horizontal=True, key='prediction_input_mode')
+    mode = st.radio(
+        'Input', ['Image upload', 'Camera snapshot'],
+        horizontal=True, key='prediction_input_mode'
+    )
 
     if mode == 'Camera snapshot':
-
         upload = st.camera_input('Driver portrait', key='prediction_camera')
-
     else:
+        upload = st.file_uploader(
+            'Driver portrait',
+            type=['jpg', 'jpeg', 'png', 'webp'],
+            key='prediction_upload'
+        )
 
-        upload = st.file_uploader('Driver portrait', type=['jpg', 'jpeg', 'png', 'webp'], key='prediction_upload')
-    # upload = st.file_uploader(
-    # 'Driver portrait',
-    # type=['jpg', 'jpeg', 'png', 'webp'],
-    # key='prediction_upload'
-    # )
-    
     if upload is not None:
 
         try:
