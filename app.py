@@ -15,7 +15,9 @@ import streamlit as st
 import tensorflow as tf
 
 import cv2
-
+st.write("OpenCV version:", getattr(cv2, "__version__", "Unknown"))
+st.write("OpenCV location:", getattr(cv2, "__file__", "Unknown"))
+st.write("CascadeClassifier available:", hasattr(cv2, "CascadeClassifier"))
 st.set_page_config(page_title='Driver eye and yawn dashboard', layout='wide')
 
 st.title('Driver eye and yawn dashboard')
