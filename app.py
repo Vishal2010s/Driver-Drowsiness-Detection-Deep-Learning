@@ -229,10 +229,10 @@ with prediction:
 
                     key = task + '_' + kind
                     
-                    if key == "yawn_mobilenet":
-                        st.write("Model file:", spec["file"])
-                        st.write("Expected SHA-256:", spec["sha256"])
-                        st.write("Actual SHA-256:", fingerprints[key])
+                    # if key == "yawn_mobilenet":
+                    #     st.write("Model file:", spec["file"])
+                    #     st.write("Expected SHA-256:", spec["sha256"])
+                    #     st.write("Actual SHA-256:", fingerprints[key])
 
 
                     if fingerprints[key] != spec['sha256']:
@@ -277,20 +277,20 @@ with prediction:
 
         st.stop()
 
-    # mode = st.radio('Input', ['Image upload', 'Camera snapshot'], horizontal=True, key='prediction_input_mode')
+    mode = st.radio('Input', ['Image upload', 'Camera snapshot'], horizontal=True, key='prediction_input_mode')
 
-    # if mode == 'Camera snapshot':
+    if mode == 'Camera snapshot':
 
-    #     upload = st.camera_input('Driver portrait', key='prediction_camera')
+        upload = st.camera_input('Driver portrait', key='prediction_camera')
 
-    # else:
+    else:
 
-    #     upload = st.file_uploader('Driver portrait', type=['jpg', 'jpeg', 'png', 'webp'], key='prediction_upload')
-    upload = st.file_uploader(
-    'Driver portrait',
-    type=['jpg', 'jpeg', 'png', 'webp'],
-    key='prediction_upload'
-    )
+        upload = st.file_uploader('Driver portrait', type=['jpg', 'jpeg', 'png', 'webp'], key='prediction_upload')
+    # upload = st.file_uploader(
+    # 'Driver portrait',
+    # type=['jpg', 'jpeg', 'png', 'webp'],
+    # key='prediction_upload'
+    # )
     
     if upload is not None:
 
